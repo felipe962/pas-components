@@ -212,3 +212,4 @@ Para dúvidas ou suporte, entre em contato através dos issues do GitHub.
 # pas-components
 # componentes
 # componentes
+# pas--components
